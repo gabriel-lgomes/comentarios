@@ -1,7 +1,9 @@
 # comentarios
 
-##Sobre
+## Sobre
+```
 Mini componente de inserção e exclusão de comentários feito em VueJs.
+```
 
 ## Project setup
 ```
